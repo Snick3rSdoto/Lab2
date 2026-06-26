@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/home/snick3rsdoto/Lab2ICTP/HotelBookingApi/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/snick3rsdoto/Lab2ICTP/HotelBookingApi/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/snick3rsdoto/Lab2ICTP/HotelBookingApi/wwwroot/js/app.js",
+      "PackagePath": "staticwebassets/js/app.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.HotelBookingApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.HotelBookingApi.props",
+      "PackagePath": "build\\HotelBookingApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HotelBookingApi.props",
+      "PackagePath": "buildMultiTargeting\\HotelBookingApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HotelBookingApi.props",
+      "PackagePath": "buildTransitive\\HotelBookingApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
