@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "ECBtrzz2SGGjOAL6tJmPbtJ6vJCWPWgZLKE9flkeTXY=",
+  "Source": "HotelBookingApi",
+  "BasePath": "_content/HotelBookingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HotelBookingApi/wwwroot",
+      "Source": "HotelBookingApi",
+      "ContentRoot": "/home/snick3rsdoto/Lab2ICTP/HotelBookingApi/wwwroot/",
+      "BasePath": "_content/HotelBookingApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/snick3rsdoto/Lab2ICTP/HotelBookingApi/wwwroot/css/site.css",
+      "SourceId": "HotelBookingApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/snick3rsdoto/Lab2ICTP/HotelBookingApi/wwwroot/",
+      "BasePath": "_content/HotelBookingApi",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/home/snick3rsdoto/Lab2ICTP/HotelBookingApi/wwwroot/index.html",
+      "SourceId": "HotelBookingApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/snick3rsdoto/Lab2ICTP/HotelBookingApi/wwwroot/",
+      "BasePath": "_content/HotelBookingApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/snick3rsdoto/Lab2ICTP/HotelBookingApi/wwwroot/js/app.js",
+      "SourceId": "HotelBookingApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/snick3rsdoto/Lab2ICTP/HotelBookingApi/wwwroot/",
+      "BasePath": "_content/HotelBookingApi",
+      "RelativePath": "js/app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/app.js"
+    }
+  ]
+}
